@@ -1,1 +1,1 @@
-worker python star_red.bat
+worker python red.py
